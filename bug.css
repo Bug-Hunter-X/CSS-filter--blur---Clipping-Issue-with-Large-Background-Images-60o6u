@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` doesn't work as expected in some browsers when applied to elements with a background image that is larger than the element itself. The blur effect might be clipped or not applied correctly.
